@@ -1,0 +1,15 @@
+C:\Users\ERIK\source\repos\3programm\3programm\bin\Debug\net6.0\3programm.exe
+C:\Users\ERIK\source\repos\3programm\3programm\bin\Debug\net6.0\3programm.deps.json
+C:\Users\ERIK\source\repos\3programm\3programm\bin\Debug\net6.0\3programm.runtimeconfig.json
+C:\Users\ERIK\source\repos\3programm\3programm\bin\Debug\net6.0\3programm.dll
+C:\Users\ERIK\source\repos\3programm\3programm\bin\Debug\net6.0\3programm.pdb
+C:\Users\ERIK\source\repos\3programm\3programm\obj\Debug\net6.0\3programm.csproj.AssemblyReference.cache
+C:\Users\ERIK\source\repos\3programm\3programm\obj\Debug\net6.0\3programm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERIK\source\repos\3programm\3programm\obj\Debug\net6.0\3programm.AssemblyInfoInputs.cache
+C:\Users\ERIK\source\repos\3programm\3programm\obj\Debug\net6.0\3programm.AssemblyInfo.cs
+C:\Users\ERIK\source\repos\3programm\3programm\obj\Debug\net6.0\3programm.csproj.CoreCompileInputs.cache
+C:\Users\ERIK\source\repos\3programm\3programm\obj\Debug\net6.0\3programm.dll
+C:\Users\ERIK\source\repos\3programm\3programm\obj\Debug\net6.0\refint\3programm.dll
+C:\Users\ERIK\source\repos\3programm\3programm\obj\Debug\net6.0\3programm.pdb
+C:\Users\ERIK\source\repos\3programm\3programm\obj\Debug\net6.0\3programm.genruntimeconfig.cache
+C:\Users\ERIK\source\repos\3programm\3programm\obj\Debug\net6.0\ref\3programm.dll
